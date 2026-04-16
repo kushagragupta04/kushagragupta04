@@ -5,7 +5,7 @@
   <tr>
     <td width="55%" valign="center">
 
-<h1>Hi, I'm Kushagra Gupta</h1>
+<h1><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZ0MWxoNGEyemZ1MzE1M2FlNzlnaGlrcnhsanI0dnlyZ2M3YTR6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">Hi, I'm Kushagra Gupta</h1>
 
 <h4>I'm into Web Development, Cloud and AI.</h4>
 
@@ -22,7 +22,8 @@
 <h2>About Me</h2>
 
 <p>
-I’m passionate about Web Development, Cloud and AI. I enjoy building projects, solving real-world problems, and exploring innovative technologies.
+Computer Science undergrad focused on backend development, cloud, and AI.
+Skilled in Java, Node.js, and building scalable, real-world systems.
 </p>
     </td>
     <td width="45%" align="center">
@@ -35,7 +36,7 @@ I’m passionate about Web Development, Cloud and AI. I enjoy building projects,
 ---
 
 
-## 🌐 Connect With Me  
+## Connect With Me  
 <p align="center">
   
   <!-- LinkedIn -->
@@ -45,7 +46,7 @@ I’m passionate about Web Development, Cloud and AI. I enjoy building projects,
 
 
   <!-- LeetCode -->
-  <a href="https://www.leetcode.com/kushagragupta08" target="_blank">
+  <a href="https://www.leetcode.com/guptakushagra08" target="_blank">
     <img 
       src="https://cdn.simpleicons.org/leetcode/FFA116"
       width="36"
@@ -58,7 +59,7 @@ I’m passionate about Web Development, Cloud and AI. I enjoy building projects,
 ---
 
 
-## 🛠️ Languages & Tools  
+## Languages & Tools  
 
 <p align="center">
   <img 
@@ -70,7 +71,7 @@ I’m passionate about Web Development, Cloud and AI. I enjoy building projects,
 ---
 
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kushagragupta04&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -78,7 +79,7 @@ I’m passionate about Web Development, Cloud and AI. I enjoy building projects,
 
 ---
 
-## 📈 <b><i>Contribution Graph</i></b>
+## <b><i>Contribution Graph</i></b>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kushagragupta04&theme=radical" />
