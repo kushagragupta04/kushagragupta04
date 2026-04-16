@@ -50,9 +50,25 @@ Skilled in Java, Node.js, and building scalable, real-world systems.
     <img 
       src="https://cdn.simpleicons.org/leetcode/FFA116"
       width="36"
-      style="background-color:#1e1e1e; padding:8px; border-radius:10px;"
+      style="background-color:#1e1e1e; padding:2px; border-radius:10px;"
     />
   </a>
+
+  <!-- Email -->
+<a href="mailto:kushagra2808gupta@gmail.com" target="_blank">
+  <img 
+    src="https://skillicons.dev/icons?i=gmail" 
+    width="40"
+  />
+</a>
+<!-- CodeChef -->
+<a href="https://www.codechef.com/users/guptakushagra" target="_blank">
+  <img 
+    src="https://cdn.simpleicons.org/codechef/5B4638"
+    width="36"
+    style="background-color:#1e1e1e; padding:8px; border-radius:10px;"
+  />
+</a>
 
 </p>
 
