@@ -85,8 +85,7 @@ Skilled in Java, Node.js, and building scalable, real-world systems.
 
 
 ---
-
-
+<!-- 
 ## GitHub Analytics
 
 <div align="center">
@@ -94,6 +93,7 @@ Skilled in Java, Node.js, and building scalable, real-world systems.
 </div>
 
 ---
+-->
 
 ## <b><i>Contribution Graph</i></b>
 
